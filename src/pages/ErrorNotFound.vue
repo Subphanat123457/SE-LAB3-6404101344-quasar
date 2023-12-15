@@ -10,9 +10,9 @@
       </div>
 
       <q-btn
-        class="q-mt-xl"
+        class="q-mt-xl "
         color="white"
-        text-color="blue"
+        text-color="blue "
         unelevated
         to="/"
         label="Go Home"
